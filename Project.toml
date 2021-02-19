@@ -1,0 +1,10 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CategoricalArrays = "324d7699-5711-5eae-9e2f-1d82baa6b597"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+TextAnalysis = "a2db99b7-8b79-58f8-94bf-bbc811eef33d"
+VegaLite = "112f6efa-9a02-5b7d-90c0-432ed331239a"

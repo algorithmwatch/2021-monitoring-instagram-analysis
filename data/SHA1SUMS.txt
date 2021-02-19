@@ -1,0 +1,13 @@
+e395ed17a6c48b79a15875ed16e64219c695e2b4  data/2020-06-25_tami.dump
+a4948d4288c454df41db152ebd7afb13fabd1e3e  data/2020-07-10_tami.dump
+c317adccbd161b854ba7e277747f083c4327ae16  data/2020-07-23_tami.dump
+15e5dde27710c5235519888b388b5826d0415158  data/2020-09-04_tami.dump
+ac8ff842b3825e61cd78b8bfbe5de988958ca7df  data/2020-09-18_tami.dump
+631ed9a8b896add63de7250b7612ef6828975328  data/2021-01-15_tami.dump
+42b6dd7e307489857be9715cb2b3a56f9c18d17a  data/2021-01-25_tami.dump
+e2f64af45793eb8a7061e17ffc0cb1626b843b90  data/donations.csv
+cf2ad93e257d12b63a1e98459af980239fe2a107  data/parties.csv
+9e150134a70a996dae59ef5128372eea36e13296  data/posts.csv
+d2433b79998736f1506f66857f0893a5b481e5fc  data/posts_with_topics.csv
+85d69b022095b3b9eaf24e987b3d1daf529b64bf  data/topics_caption.csv
+ef4712d10997ddffa463acbb46f0d99ad9d90482  data/topics_image.csv

@@ -1,0 +1,24 @@
+digraph G {
+    subgraph observer {
+        monitored_user -> post
+        monitored_user [label="monitored\naccount"]
+    }
+
+    subgraph plugin {
+        data_donation-> encounter;
+        data_donation [label="data\ndonation"]
+    }
+
+    donor -> data_donation [label="plug-in\nactive"]
+
+    subgraph recommender {
+        post -> ranking;
+        time -> ranking
+        donor -> ranking
+        ranking -> encounter
+        ranking -> impressions -> popularity -> ranking;
+    }
+
+    ranking [label="presentation"]
+
+}

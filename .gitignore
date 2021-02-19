@@ -1,0 +1,14 @@
+.DS_Store
+data/*.dump
+awig.code-workspace
+.vscode/spellright.dict
+*.synctex.gz
+TAMI-project2.csv
+parties.csv
+data/donations.csv
+data/posts.csv
+data/posts_with_topics.csv
+notebooks/.ipynb_checkpoints/*
+.~lock*
+__pycache__/
+images/topic*/
