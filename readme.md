@@ -22,7 +22,7 @@ The preparatory steps for the analysis can be read in `doc/analysis_plan.pdf`. T
 
 The graphs used in the article use the following data:
 
-![](https://i.imgur.com/ru4SyXY.png)
+![](https://i.imgur.com/J7IGmOZ.png)
 
 Ratio of posts seen vs not seen in cell [19] of the [analysis from Feb 22](https://github.com/algorithmwatch/monitoring-instagram-TAMI/blob/main/archive/feb22/TAMI%20Dutch%20politics.ipynb).
 
