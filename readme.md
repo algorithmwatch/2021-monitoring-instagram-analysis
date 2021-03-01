@@ -20,6 +20,16 @@ The [browser plugin](https://algorithmwatch.org/en/instagram-algorithm/) was dev
 
 The preparatory steps for the analysis can be read in `doc/analysis_plan.pdf`. The code of the analysis can be consulted at `notebooks/TAMI Dutch politics.ipynb`
 
+The graphs used in the article use the following data:
+
+![](https://i.imgur.com/ru4SyXY.png)
+
+Ratio of posts seen vs not seen in cell [19] of the [analysis from Feb 22](https://github.com/algorithmwatch/monitoring-instagram-TAMI/blob/main/archive/feb22/TAMI%20Dutch%20politics.ipynb).
+
+![](https://i.imgur.com/3B6VlD1.png)
+
+The probability that a post be seen, taking into account the results of the model predicting visibility, is calculated using exp(x) (x being the data from cell [26] of the [analysis from Feb 22](https://github.com/algorithmwatch/monitoring-instagram-TAMI/blob/main/archive/feb22/TAMI%20Dutch%20politics.ipynb), which represents the log-odds).
+
 ## Usage
 
 Upon reception of the database, process the data for the analysis:
