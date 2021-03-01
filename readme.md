@@ -30,6 +30,8 @@ Ratio of posts seen vs not seen in cell [19] of the [analysis from Feb 22](https
 
 The probability that a post be seen, taking into account the results of the model predicting visibility, is calculated using exp(x) (x being the data from cell [26] of the [analysis from Feb 22](https://github.com/algorithmwatch/monitoring-instagram-TAMI/blob/main/archive/feb22/TAMI%20Dutch%20politics.ipynb), which represents the log-odds).
 
+The graphs used in the article focus on the categories for which we can formulate hypotheses regarding why they would be favored. Categories were automatically generated using a Latent Dirichlet allocation and sometimes were difficult to interpret. For instance, an 'indoor' category seems to be favored by Instagram's algorithm in some analyses, but not all.
+
 ## Usage
 
 Upon reception of the database, process the data for the analysis:
